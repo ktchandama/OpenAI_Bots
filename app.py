@@ -3,7 +3,7 @@ import openai
 import gradio as gr
 
 # OpenAI API key goes here
-openai.api_key = "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"
+openai.api_key = "Secret OpenAI API key"
 
 # Define the initial message
 messages = [
